@@ -9,6 +9,10 @@
 extern "C" {
 #endif
 
+typedef unsigned char BYTE;
+typedef unsigned int UINT;
+typedef unsigned int DWORD;
+
 /* Status of Disk Functions */
 typedef BYTE	DSTATUS;
 
